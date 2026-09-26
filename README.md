@@ -33,7 +33,7 @@ Compilation & Execution
 Clone the repository:
 
 Bash
-git clone [https://github.com/Danielit707/Laboratorio-3-EDD-II.git](https://github.com/Danielit707/Laboratorio-3-EDD-II.git)
+git clone [https://github.com/Danielit707/Laboratorio-3-EDD-II.git](https://github.com/Danielit707/java-distributed-sorting-system)
 cd Laboratorio-3-EDD-II
 Compile the source files:
 
